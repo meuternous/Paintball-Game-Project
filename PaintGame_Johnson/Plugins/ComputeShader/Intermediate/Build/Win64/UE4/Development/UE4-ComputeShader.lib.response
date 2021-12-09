@@ -1,0 +1,7 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+"C:\Users\funcl\Desktop\SNHU Online\GAM-415\PaintGame_Johnson\Plugins\ComputeShader\Intermediate\Build\Win64\UE4\Development\ComputeShader\Module.ComputeShader.cpp.obj"
+"C:\Users\funcl\Desktop\SNHU Online\GAM-415\PaintGame_Johnson\Intermediate\Build\Win64\UE4\Development\ComputeShader\PCLaunch.rc.res"
+/OUT:"C:\Users\funcl\Desktop\SNHU Online\GAM-415\PaintGame_Johnson\Plugins\ComputeShader\Binaries\Win64\UE4-ComputeShader.lib"

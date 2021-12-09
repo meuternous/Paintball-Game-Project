@@ -1,0 +1,2 @@
+﻿  The system cannot find the path specified.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.MakeFile.Targets(47,5): error MSB3073: The command ""C:\Program Files\Epic Games\UE_4.18\Engine\Build\BatchFiles\Build.bat" PaintGame_JohnsonEditor Win64 Development "C:\Users\User\Desktop\SNHU Online\Other\GAM-495 Capstone\PaintGame_Johnson\PaintGame_Johnson.uproject" -waitmutex" exited with code 3.
